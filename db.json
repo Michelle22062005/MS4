@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "nameProduct": "arroz",
+      "priceProduct": "5241",
+      "descriptionProducto": "in kl",
+      "id": 1
+    }
+  ]
+}
