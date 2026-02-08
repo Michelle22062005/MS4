@@ -1,10 +1,10 @@
 {
   "products": [
     {
-      "nameProduct": "arroz",
-      "priceProduct": "5241",
-      "descriptionProducto": "in kl",
-      "id": 1
+      "id": "159c",
+      "nameProduct": "lentejas",
+      "priceProduct": "2500",
+      "descriptionProducto": "una libra"
     }
   ]
 }
